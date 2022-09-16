@@ -1,0 +1,10 @@
+a ={ 1,32,342,1}
+print(type(a))
+print(a)
+a.add(9)
+a.add((33,31))
+print(a)
+print(len(a))
+a.remove(1)
+print(a)
+print(a.pop())
